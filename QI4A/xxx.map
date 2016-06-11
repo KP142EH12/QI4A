@@ -1,0 +1,1722 @@
+Archive member included because of file (symbol)
+
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divsi3.o)
+                              ./obj/local/armeabi/objs/vorbis/smallft.o (__aeabi_idiv)
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubdf3.o)
+                              ./obj/local/armeabi/objs/vorbis/envelope.o (__aeabi_dsub)
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivdf3.o)
+                              ./obj/local/armeabi/objs/vorbis/mdct.o (__aeabi_dmul)
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpdf2.o)
+                              ./obj/local/armeabi/objs/vorbis/lsp.o (__aeabi_dcmplt)
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixdfsi.o)
+                              ./obj/local/armeabi/objs/vorbis/psy.o (__aeabi_d2iz)
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_truncdfsf2.o)
+                              ./obj/local/armeabi/objs/vorbis/mdct.o (__aeabi_d2f)
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubsf3.o)
+                              ./obj/local/armeabi/objs/vorbis/mdct.o (__aeabi_fsub)
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivsf3.o)
+                              ./obj/local/armeabi/objs/vorbis/mdct.o (__aeabi_fmul)
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpsf2.o)
+                              ./obj/local/armeabi/objs/vorbis/psy.o (__aeabi_fcmpeq)
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixsfsi.o)
+                              ./obj/local/armeabi/objs/vorbis/psy.o (__aeabi_f2iz)
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+                              D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divsi3.o) (__aeabi_idiv0)
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+                              ./obj/local/armeabi/objs/vorbis/mdct.o (__aeabi_unwind_cpp_pr0)
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+                              D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o) (restore_core_regs)
+D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+                              D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/window.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/lpc.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/analysis.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/registry.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/lookup.o
+ .note.GNU-stack
+                0x00000000        0x0 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubdf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivdf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpdf2.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixdfsi.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_truncdfsf2.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubsf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivsf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpsf2.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixsfsi.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:/Android/android-ndk-r11c/build//../platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+Memory map
+
+ ** file header
+                0x00000000       0x34
+ ** segment headers
+                0x00000034      0x100
+
+.interp         0x00000134       0x13
+ ** fill        0x00000134       0x13
+
+.dynsym         0x00000148     0x11f0
+ ** dynsym      0x00000148     0x11f0
+
+.dynstr         0x00001338     0x124c
+ ** string table
+                0x00001338     0x124c
+
+.hash           0x00002584      0x8a0
+ ** hash        0x00002584      0x8a0
+
+.rel.dyn        0x00002e24      0x220
+ ** dynamic relocs
+                0x00002e24      0x220
+ ** dynamic relocs
+                0x00003044        0x0
+
+.rel.plt        0x00003044      0x168
+ ** dynamic relocs
+                0x00003044      0x168
+
+.plt            0x000031ac      0x230
+ ** PLT         0x000031ac      0x230
+
+.text           0x000033dc    0x1bed4
+ .text.exit     0x000033dc       0x10 D:/Android/android-ndk-r11c/build//../platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x000033dc                __on_dlclose
+ .text          0x000033ec       0x2c D:/Android/android-ndk-r11c/build//../platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x000033ec                __atexit_handler_wrapper
+                0x000033f8                atexit
+ .text          0x00003418        0x0 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .text.mdct_butterflies.isra.0
+                0x00003418     0x130c ./obj/local/armeabi/objs/vorbis/mdct.o
+ .text.mdct_init
+                0x00004724      0x2cc ./obj/local/armeabi/objs/vorbis/mdct.o
+                0x00004724                mdct_init
+ .text.mdct_clear
+                0x000049f0       0x44 ./obj/local/armeabi/objs/vorbis/mdct.o
+                0x000049f0                mdct_clear
+ .text.mdct_backward
+                0x00004a34      0x76c ./obj/local/armeabi/objs/vorbis/mdct.o
+                0x00004a34                mdct_backward
+ .text.mdct_forward
+                0x000051a0      0x734 ./obj/local/armeabi/objs/vorbis/mdct.o
+                0x000051a0                mdct_forward
+ .text          0x000058d4        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .text.dradf2   0x000058d4      0x2f8 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .text.dradf4   0x00005bcc      0x66c ./obj/local/armeabi/objs/vorbis/smallft.o
+ .text.dradb2   0x00006238      0x2a0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .text.dradb3   0x000064d8      0x3f4 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .text.dradb4   0x000068cc      0x6e8 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .text.dradfg   0x00006fb4     0x10d0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .text.dradbg   0x00008084     0x103c ./obj/local/armeabi/objs/vorbis/smallft.o
+ .text.drft_forward
+                0x000090c0      0x22c ./obj/local/armeabi/objs/vorbis/smallft.o
+                0x000090c0                drft_forward
+ .text.drft_backward
+                0x000092ec      0x210 ./obj/local/armeabi/objs/vorbis/smallft.o
+                0x000092ec                drft_backward
+ .text.drft_init
+                0x000094fc      0x2e8 ./obj/local/armeabi/objs/vorbis/smallft.o
+                0x000094fc                drft_init
+ .text.drft_clear
+                0x000097e4       0x70 ./obj/local/armeabi/objs/vorbis/smallft.o
+                0x000097e4                drft_clear
+ .text          0x00009854        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .text._preextrapolate_helper
+                0x00009854      0x148 ./obj/local/armeabi/objs/vorbis/block.o
+ .text.vorbis_block_init
+                0x0000999c       0xa0 ./obj/local/armeabi/objs/vorbis/block.o
+                0x0000999c                vorbis_block_init
+ .text._vorbis_block_alloc
+                0x00009a3c       0x80 ./obj/local/armeabi/objs/vorbis/block.o
+                0x00009a3c                _vorbis_block_alloc
+ .text._vorbis_block_ripcord
+                0x00009abc       0xa4 ./obj/local/armeabi/objs/vorbis/block.o
+                0x00009abc                _vorbis_block_ripcord
+ .text.vorbis_block_clear
+                0x00009b60       0x7c ./obj/local/armeabi/objs/vorbis/block.o
+                0x00009b60                vorbis_block_clear
+ .text.vorbis_dsp_clear
+                0x00009bdc      0x290 ./obj/local/armeabi/objs/vorbis/block.o
+                0x00009bdc                vorbis_dsp_clear
+ .text._vds_shared_init
+                0x00009e6c      0x4ac ./obj/local/armeabi/objs/vorbis/block.o
+ .text.vorbis_analysis_init
+                0x0000a318       0x68 ./obj/local/armeabi/objs/vorbis/block.o
+                0x0000a318                vorbis_analysis_init
+ .text.vorbis_analysis_buffer
+                0x0000a380       0xf4 ./obj/local/armeabi/objs/vorbis/block.o
+                0x0000a380                vorbis_analysis_buffer
+ .text.vorbis_analysis_wrote
+                0x0000a474      0x1a0 ./obj/local/armeabi/objs/vorbis/block.o
+                0x0000a474                vorbis_analysis_wrote
+ .text.vorbis_analysis_blockout
+                0x0000a614      0x38c ./obj/local/armeabi/objs/vorbis/block.o
+                0x0000a614                vorbis_analysis_blockout
+ .text.vorbis_synthesis_restart
+                0x0000a9a0       0x7c ./obj/local/armeabi/objs/vorbis/block.o
+                0x0000a9a0                vorbis_synthesis_restart
+ .text.vorbis_synthesis_init
+                0x0000aa1c       0x38 ./obj/local/armeabi/objs/vorbis/block.o
+                0x0000aa1c                vorbis_synthesis_init
+ .text.vorbis_synthesis_blockin
+                0x0000aa54      0x7d0 ./obj/local/armeabi/objs/vorbis/block.o
+                0x0000aa54                vorbis_synthesis_blockin
+ .text.vorbis_synthesis_pcmout
+                0x0000b224       0x74 ./obj/local/armeabi/objs/vorbis/block.o
+                0x0000b224                vorbis_synthesis_pcmout
+ .text.vorbis_synthesis_read
+                0x0000b298       0x34 ./obj/local/armeabi/objs/vorbis/block.o
+                0x0000b298                vorbis_synthesis_read
+ .text.vorbis_synthesis_lapout
+                0x0000b2cc      0x220 ./obj/local/armeabi/objs/vorbis/block.o
+                0x0000b2cc                vorbis_synthesis_lapout
+ .text.vorbis_window
+                0x0000b4ec       0x30 ./obj/local/armeabi/objs/vorbis/block.o
+                0x0000b4ec                vorbis_window
+ .text          0x0000b51c        0x0 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .text._ve_amp  0x0000b51c      0x584 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .text._ve_envelope_init
+                0x0000baa0      0x220 ./obj/local/armeabi/objs/vorbis/envelope.o
+                0x0000baa0                _ve_envelope_init
+ .text._ve_envelope_clear
+                0x0000bcc0       0x58 ./obj/local/armeabi/objs/vorbis/envelope.o
+                0x0000bcc0                _ve_envelope_clear
+ .text._ve_envelope_search
+                0x0000bd18      0x288 ./obj/local/armeabi/objs/vorbis/envelope.o
+                0x0000bd18                _ve_envelope_search
+ .text._ve_envelope_mark
+                0x0000bfa0      0x114 ./obj/local/armeabi/objs/vorbis/envelope.o
+                0x0000bfa0                _ve_envelope_mark
+ .text._ve_envelope_shift
+                0x0000c0b4       0x74 ./obj/local/armeabi/objs/vorbis/envelope.o
+                0x0000c0b4                _ve_envelope_shift
+ .text          0x0000c128        0x0 ./obj/local/armeabi/objs/vorbis/window.o
+ .text._vorbis_window_get
+                0x0000c128       0x14 ./obj/local/armeabi/objs/vorbis/window.o
+                0x0000c128                _vorbis_window_get
+ .text._vorbis_apply_window
+                0x0000c13c      0x158 ./obj/local/armeabi/objs/vorbis/window.o
+                0x0000c13c                _vorbis_apply_window
+ .text          0x0000c294        0x0 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .text.cheby    0x0000c294       0x84 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .text.comp     0x0000c318       0x3c ./obj/local/armeabi/objs/vorbis/lsp.o
+ .text.Laguerre_With_Deflation
+                0x0000c354      0x39c ./obj/local/armeabi/objs/vorbis/lsp.o
+ .text.Newton_Raphson
+                0x0000c6f0      0x274 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .text.vorbis_lsp_to_curve
+                0x0000c964      0x2e0 ./obj/local/armeabi/objs/vorbis/lsp.o
+                0x0000c964                vorbis_lsp_to_curve
+ .text.vorbis_lpc_to_lsp
+                0x0000cc44      0x2d8 ./obj/local/armeabi/objs/vorbis/lsp.o
+                0x0000cc44                vorbis_lpc_to_lsp
+ .text          0x0000cf1c        0x0 ./obj/local/armeabi/objs/vorbis/lpc.o
+ .text.vorbis_lpc_from_data
+                0x0000cf1c      0x4a4 ./obj/local/armeabi/objs/vorbis/lpc.o
+                0x0000cf1c                vorbis_lpc_from_data
+ .text.vorbis_lpc_predict
+                0x0000d3c0      0x154 ./obj/local/armeabi/objs/vorbis/lpc.o
+                0x0000d3c0                vorbis_lpc_predict
+ .text          0x0000d514        0x0 ./obj/local/armeabi/objs/vorbis/analysis.o
+ .text.vorbis_analysis
+                0x0000d514       0xc8 ./obj/local/armeabi/objs/vorbis/analysis.o
+                0x0000d514                vorbis_analysis
+ .text          0x0000d5dc        0x0 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .text.vorbis_synthesis
+                0x0000d5dc      0x19c ./obj/local/armeabi/objs/vorbis/synthesis.o
+                0x0000d5dc                vorbis_synthesis
+ .text.vorbis_synthesis_trackonly
+                0x0000d778       0xe8 ./obj/local/armeabi/objs/vorbis/synthesis.o
+                0x0000d778                vorbis_synthesis_trackonly
+ .text.vorbis_packet_blocksize
+                0x0000d860       0xb8 ./obj/local/armeabi/objs/vorbis/synthesis.o
+                0x0000d860                vorbis_packet_blocksize
+ .text.vorbis_synthesis_halfrate
+                0x0000d918       0x2c ./obj/local/armeabi/objs/vorbis/synthesis.o
+                0x0000d918                vorbis_synthesis_halfrate
+ .text.vorbis_synthesis_halfrate_p
+                0x0000d944        0xc ./obj/local/armeabi/objs/vorbis/synthesis.o
+                0x0000d944                vorbis_synthesis_halfrate_p
+ .text          0x0000d950        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .text.apsort   0x0000d950       0x44 ./obj/local/armeabi/objs/vorbis/psy.o
+ .text.bark_noise_hybridmp
+                0x0000d994      0xaf8 ./obj/local/armeabi/objs/vorbis/psy.o
+ .text.seed_chase
+                0x0000e48c      0x254 ./obj/local/armeabi/objs/vorbis/psy.o
+ .text.setup_tone_curves
+                0x0000e6e0     0x13f4 ./obj/local/armeabi/objs/vorbis/psy.o
+ .text.noise_normalize.isra.0
+                0x0000fad4      0x438 ./obj/local/armeabi/objs/vorbis/psy.o
+ .text._vp_global_look
+                0x0000ff0c       0x3c ./obj/local/armeabi/objs/vorbis/psy.o
+                0x0000ff0c                _vp_global_look
+ .text._vp_global_free
+                0x0000ff48       0x28 ./obj/local/armeabi/objs/vorbis/psy.o
+                0x0000ff48                _vp_global_free
+ .text._vi_gpsy_free
+                0x0000ff70       0x28 ./obj/local/armeabi/objs/vorbis/psy.o
+                0x0000ff70                _vi_gpsy_free
+ .text._vi_psy_free
+                0x0000ff98       0x28 ./obj/local/armeabi/objs/vorbis/psy.o
+                0x0000ff98                _vi_psy_free
+ .text._vp_psy_init
+                0x0000ffc0      0xb5c ./obj/local/armeabi/objs/vorbis/psy.o
+                0x0000ffc0                _vp_psy_init
+ .text._vp_psy_clear
+                0x00010b1c       0xd8 ./obj/local/armeabi/objs/vorbis/psy.o
+                0x00010b1c                _vp_psy_clear
+ .text._vp_noisemask
+                0x00010bf4      0x1ac ./obj/local/armeabi/objs/vorbis/psy.o
+                0x00010bf4                _vp_noisemask
+ .text._vp_tonemask
+                0x00010da0      0x5a0 ./obj/local/armeabi/objs/vorbis/psy.o
+                0x00010da0                _vp_tonemask
+ .text._vp_offset_and_mix
+                0x00011340      0x27c ./obj/local/armeabi/objs/vorbis/psy.o
+                0x00011340                _vp_offset_and_mix
+ .text._vp_ampmax_decay
+                0x000115bc       0x6c ./obj/local/armeabi/objs/vorbis/psy.o
+                0x000115bc                _vp_ampmax_decay
+ .text._vp_couple_quantize_normalize
+                0x00011628      0xa18 ./obj/local/armeabi/objs/vorbis/psy.o
+                0x00011628                _vp_couple_quantize_normalize
+ .text          0x00012040        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .text._vorbis_pack_comment
+                0x00012040      0x134 ./obj/local/armeabi/objs/vorbis/info.o
+ .text.vorbis_comment_init
+                0x00012174        0xc ./obj/local/armeabi/objs/vorbis/info.o
+                0x00012174                vorbis_comment_init
+ .text.vorbis_comment_add
+                0x00012180       0x94 ./obj/local/armeabi/objs/vorbis/info.o
+                0x00012180                vorbis_comment_add
+ .text.vorbis_comment_add_tag
+                0x00012214       0xb4 ./obj/local/armeabi/objs/vorbis/info.o
+                0x00012214                vorbis_comment_add_tag
+ .text.vorbis_comment_query
+                0x000122c8      0x164 ./obj/local/armeabi/objs/vorbis/info.o
+                0x000122c8                vorbis_comment_query
+ .text.vorbis_comment_query_count
+                0x0001242c      0x120 ./obj/local/armeabi/objs/vorbis/info.o
+                0x0001242c                vorbis_comment_query_count
+ .text.vorbis_comment_clear
+                0x0001254c       0x8c ./obj/local/armeabi/objs/vorbis/info.o
+                0x0001254c                vorbis_comment_clear
+ .text.vorbis_info_blocksize
+                0x000125d8       0x14 ./obj/local/armeabi/objs/vorbis/info.o
+                0x000125d8                vorbis_info_blocksize
+ .text.vorbis_info_init
+                0x000125ec       0x28 ./obj/local/armeabi/objs/vorbis/info.o
+                0x000125ec                vorbis_info_init
+ .text.vorbis_info_clear
+                0x00012614      0x1e0 ./obj/local/armeabi/objs/vorbis/info.o
+                0x00012614                vorbis_info_clear
+ .text.vorbis_synthesis_idheader
+                0x000127f4       0xcc ./obj/local/armeabi/objs/vorbis/info.o
+                0x000127f4                vorbis_synthesis_idheader
+ .text.vorbis_synthesis_headerin
+                0x000128c0      0x6cc ./obj/local/armeabi/objs/vorbis/info.o
+                0x000128c0                vorbis_synthesis_headerin
+ .text.vorbis_commentheader_out
+                0x00012f8c       0xc4 ./obj/local/armeabi/objs/vorbis/info.o
+                0x00012f8c                vorbis_commentheader_out
+ .text.vorbis_analysis_headerout
+                0x00013050      0x710 ./obj/local/armeabi/objs/vorbis/info.o
+                0x00013050                vorbis_analysis_headerout
+ .text.vorbis_granule_time
+                0x00013760       0xa4 ./obj/local/armeabi/objs/vorbis/info.o
+                0x00013760                vorbis_granule_time
+ .text.vorbis_version_string
+                0x00013804       0x10 ./obj/local/armeabi/objs/vorbis/info.o
+                0x00013804                vorbis_version_string
+ .text          0x00013814        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .text.icomp    0x00013814       0x18 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .text.floor1_inverse2
+                0x0001382c      0x27c ./obj/local/armeabi/objs/vorbis/floor1.o
+ .text.floor1_pack
+                0x00013aa8      0x224 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .text.floor1_inverse1
+                0x00013ccc      0x34c ./obj/local/armeabi/objs/vorbis/floor1.o
+ .text.floor1_free_look
+                0x00014018       0x28 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .text.floor1_free_info
+                0x00014040       0x28 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .text.floor1_look
+                0x00014068      0x2e0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .text.floor1_unpack
+                0x00014348      0x344 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .text.accumulate_fit.isra.1
+                0x0001468c      0x24c ./obj/local/armeabi/objs/vorbis/floor1.o
+ .text.fit_line.isra.2
+                0x000148d8      0x5a4 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .text.floor1_fit
+                0x00014e7c      0xad4 ./obj/local/armeabi/objs/vorbis/floor1.o
+                0x00014e7c                floor1_fit
+ .text.floor1_interpolate_fit
+                0x00015950       0xb8 ./obj/local/armeabi/objs/vorbis/floor1.o
+                0x00015950                floor1_interpolate_fit
+ .text.floor1_encode
+                0x00015a08      0x958 ./obj/local/armeabi/objs/vorbis/floor1.o
+                0x00015a08                floor1_encode
+ .text          0x00016360        0x0 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .text.floor0_inverse1
+                0x00016360      0x1a8 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .text.floor0_free_look
+                0x00016508       0x68 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .text.floor0_free_info
+                0x00016570       0x28 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .text.floor0_unpack
+                0x00016598      0x120 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .text.floor0_look
+                0x000166b8       0x44 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .text.floor0_inverse2
+                0x000166fc      0x374 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .text          0x00016a70        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .text.res0_free_info
+                0x00016a70       0x2c ./obj/local/armeabi/objs/vorbis/res0.o
+                0x00016a70                res0_free_info
+ .text.res0_pack
+                0x00016a9c      0x15c ./obj/local/armeabi/objs/vorbis/res0.o
+                0x00016a9c                res0_pack
+ .text.res0_unpack
+                0x00016bf8      0x230 ./obj/local/armeabi/objs/vorbis/res0.o
+                0x00016bf8                res0_unpack
+ .text.res0_look
+                0x00016e28      0x254 ./obj/local/armeabi/objs/vorbis/res0.o
+                0x00016e28                res0_look
+ .text.res1_class
+                0x0001707c      0x290 ./obj/local/armeabi/objs/vorbis/res0.o
+                0x0001707c                res1_class
+ .text.res2_class
+                0x0001730c      0x1f4 ./obj/local/armeabi/objs/vorbis/res0.o
+                0x0001730c                res2_class
+ .text._01inverse
+                0x00017500      0x2fc ./obj/local/armeabi/objs/vorbis/res0.o
+ .text.res0_inverse
+                0x000177fc       0x68 ./obj/local/armeabi/objs/vorbis/res0.o
+                0x000177fc                res0_inverse
+ .text.res1_inverse
+                0x00017864       0x68 ./obj/local/armeabi/objs/vorbis/res0.o
+                0x00017864                res1_inverse
+ .text._encodepart
+                0x000178cc      0x588 ./obj/local/armeabi/objs/vorbis/res0.o
+ .text.res2_inverse
+                0x00017e54      0x218 ./obj/local/armeabi/objs/vorbis/res0.o
+                0x00017e54                res2_inverse
+ .text.res0_free_look
+                0x0001806c       0xa4 ./obj/local/armeabi/objs/vorbis/res0.o
+                0x0001806c                res0_free_look
+ .text._01forward.isra.1.constprop.2
+                0x00018110      0x3e4 ./obj/local/armeabi/objs/vorbis/res0.o
+ .text.res2_forward
+                0x000184f4      0x100 ./obj/local/armeabi/objs/vorbis/res0.o
+                0x000184f4                res2_forward
+ .text.res1_forward
+                0x000185f4       0x6c ./obj/local/armeabi/objs/vorbis/res0.o
+                0x000185f4                res1_forward
+ .text          0x00018660        0x0 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .text.mapping0_inverse
+                0x00018660      0x538 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .text.mapping0_pack
+                0x00018b98      0x1e8 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .text.mapping0_forward
+                0x00018d80      0xb14 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .text.mapping0_free_info
+                0x00019894       0x2c ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .text.mapping0_unpack
+                0x000198c0      0x270 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .text          0x00019b30        0x0 ./obj/local/armeabi/objs/vorbis/registry.o
+ .text          0x00019b30        0x0 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .text.vorbis_staticbook_pack
+                0x00019b30      0x378 ./obj/local/armeabi/objs/vorbis/codebook.o
+                0x00019b30                vorbis_staticbook_pack
+ .text.vorbis_staticbook_unpack
+                0x00019ea8      0x40c ./obj/local/armeabi/objs/vorbis/codebook.o
+                0x00019ea8                vorbis_staticbook_unpack
+ .text.vorbis_book_encode
+                0x0001a2b4       0x5c ./obj/local/armeabi/objs/vorbis/codebook.o
+                0x0001a2b4                vorbis_book_encode
+ .text.vorbis_book_decode
+                0x0001a310      0x1b4 ./obj/local/armeabi/objs/vorbis/codebook.o
+                0x0001a310                vorbis_book_decode
+ .text.vorbis_book_decodevs_add
+                0x0001a4c4      0x2d8 ./obj/local/armeabi/objs/vorbis/codebook.o
+                0x0001a4c4                vorbis_book_decodevs_add
+ .text.vorbis_book_decodev_add
+                0x0001a79c      0x580 ./obj/local/armeabi/objs/vorbis/codebook.o
+                0x0001a79c                vorbis_book_decodev_add
+ .text.vorbis_book_decodev_set
+                0x0001ad1c      0x22c ./obj/local/armeabi/objs/vorbis/codebook.o
+                0x0001ad1c                vorbis_book_decodev_set
+ .text.vorbis_book_decodevv_add
+                0x0001af48      0x270 ./obj/local/armeabi/objs/vorbis/codebook.o
+                0x0001af48                vorbis_book_decodevv_add
+ .text          0x0001b1b8        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .text.bitreverse
+                0x0001b1b8       0x6c ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .text.sort32a  0x0001b224       0x2c ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .text._ilog    0x0001b250       0x24 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+                0x0001b250                _ilog
+ .text._float32_pack
+                0x0001b274       0x8c ./obj/local/armeabi/objs/vorbis/sharedbook.o
+                0x0001b274                _float32_pack
+ .text._float32_unpack
+                0x0001b300       0x44 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+                0x0001b300                _float32_unpack
+ .text._make_words
+                0x0001b344      0x2a4 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+                0x0001b344                _make_words
+ .text._book_maptype1_quantvals
+                0x0001b5e8       0xbc ./obj/local/armeabi/objs/vorbis/sharedbook.o
+                0x0001b5e8                _book_maptype1_quantvals
+ .text._book_unquantize
+                0x0001b6a4      0x658 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+                0x0001b6a4                _book_unquantize
+ .text.vorbis_staticbook_destroy
+                0x0001bcfc       0x50 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+                0x0001bcfc                vorbis_staticbook_destroy
+ .text.vorbis_book_clear
+                0x0001bd4c       0x6c ./obj/local/armeabi/objs/vorbis/sharedbook.o
+                0x0001bd4c                vorbis_book_clear
+ .text.vorbis_book_init_encode
+                0x0001bdb8       0x74 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+                0x0001bdb8                vorbis_book_init_encode
+ .text.vorbis_book_init_decode
+                0x0001be2c      0x4e8 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+                0x0001be2c                vorbis_book_init_decode
+ .text.vorbis_book_codeword
+                0x0001c314       0x18 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+                0x0001c314                vorbis_book_codeword
+ .text.vorbis_book_codelen
+                0x0001c32c       0x18 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+                0x0001c32c                vorbis_book_codelen
+ .text          0x0001c344        0x0 ./obj/local/armeabi/objs/vorbis/lookup.o
+ .text          0x0001c344        0x0 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .text.vorbis_bitrate_init
+                0x0001c344      0x12c ./obj/local/armeabi/objs/vorbis/bitrate.o
+                0x0001c344                vorbis_bitrate_init
+ .text.vorbis_bitrate_clear
+                0x0001c470        0xc ./obj/local/armeabi/objs/vorbis/bitrate.o
+                0x0001c470                vorbis_bitrate_clear
+ .text.vorbis_bitrate_managed
+                0x0001c47c       0x20 ./obj/local/armeabi/objs/vorbis/bitrate.o
+                0x0001c47c                vorbis_bitrate_managed
+ .text.vorbis_bitrate_addblock
+                0x0001c49c      0x66c ./obj/local/armeabi/objs/vorbis/bitrate.o
+                0x0001c49c                vorbis_bitrate_addblock
+ .text.vorbis_bitrate_flushpacket
+                0x0001cb08       0x8c ./obj/local/armeabi/objs/vorbis/bitrate.o
+                0x0001cb08                vorbis_bitrate_flushpacket
+ .text          0x0001cb94       0xfc D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divsi3.o)
+                0x0001cb94                __divsi3
+                0x0001cb94                __aeabi_idiv
+                0x0001cc70                __aeabi_idivmod
+ .text          0x0001cc90      0x3b8 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubdf3.o)
+                0x0001cc90                __aeabi_drsub
+                0x0001cc98                __subdf3
+                0x0001cc98                __aeabi_dsub
+                0x0001cc9c                __adddf3
+                0x0001cc9c                __aeabi_dadd
+                0x0001cf48                __floatunsidf
+                0x0001cf48                __aeabi_ui2d
+                0x0001cf6c                __floatsidf
+                0x0001cf6c                __aeabi_i2d
+                0x0001cf94                __extendsfdf2
+                0x0001cf94                __aeabi_f2d
+                0x0001cfd4                __floatundidf
+                0x0001cfd4                __aeabi_ul2d
+                0x0001cfe8                __floatdidf
+                0x0001cfe8                __aeabi_l2d
+ .text          0x0001d048      0x470 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivdf3.o)
+                0x0001d048                __muldf3
+                0x0001d048                __aeabi_dmul
+                0x0001d2b4                __divdf3
+                0x0001d2b4                __aeabi_ddiv
+ .text          0x0001d4b8      0x12c D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpdf2.o)
+                0x0001d4b8                __gtdf2
+                0x0001d4b8                __gedf2
+                0x0001d4c0                __ltdf2
+                0x0001d4c0                __ledf2
+                0x0001d4c8                __cmpdf2
+                0x0001d4c8                __nedf2
+                0x0001d4c8                __eqdf2
+                0x0001d550                __aeabi_cdrcmple
+                0x0001d56c                __aeabi_cdcmpeq
+                0x0001d56c                __aeabi_cdcmple
+                0x0001d580                __aeabi_dcmpeq
+                0x0001d594                __aeabi_dcmplt
+                0x0001d5a8                __aeabi_dcmple
+                0x0001d5bc                __aeabi_dcmpge
+                0x0001d5d0                __aeabi_dcmpgt
+ .text          0x0001d5e4       0x5c D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixdfsi.o)
+                0x0001d5e4                __fixdfsi
+                0x0001d5e4                __aeabi_d2iz
+ .text          0x0001d640       0xa0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_truncdfsf2.o)
+                0x0001d640                __truncdfsf2
+                0x0001d640                __aeabi_d2f
+ .text          0x0001d6e0      0x250 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubsf3.o)
+                0x0001d6e0                __aeabi_frsub
+                0x0001d6e8                __subsf3
+                0x0001d6e8                __aeabi_fsub
+                0x0001d6ec                __addsf3
+                0x0001d6ec                __aeabi_fadd
+                0x0001d87c                __floatunsisf
+                0x0001d87c                __aeabi_ui2f
+                0x0001d884                __floatsisf
+                0x0001d884                __aeabi_i2f
+                0x0001d8a4                __floatundisf
+                0x0001d8a4                __aeabi_ul2f
+                0x0001d8b4                __floatdisf
+                0x0001d8b4                __aeabi_l2f
+ .text          0x0001d930      0x2f8 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivsf3.o)
+                0x0001d930                __mulsf3
+                0x0001d930                __aeabi_fmul
+                0x0001dac8                __divsf3
+                0x0001dac8                __aeabi_fdiv
+ .text          0x0001dc28       0xfc D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpsf2.o)
+                0x0001dc28                __gtsf2
+                0x0001dc28                __gesf2
+                0x0001dc30                __ltsf2
+                0x0001dc30                __lesf2
+                0x0001dc38                __cmpsf2
+                0x0001dc38                __nesf2
+                0x0001dc38                __eqsf2
+                0x0001dc9c                __aeabi_cfrcmple
+                0x0001dcac                __aeabi_cfcmpeq
+                0x0001dcac                __aeabi_cfcmple
+                0x0001dcc0                __aeabi_fcmpeq
+                0x0001dcd4                __aeabi_fcmplt
+                0x0001dce8                __aeabi_fcmple
+                0x0001dcfc                __aeabi_fcmpge
+                0x0001dd10                __aeabi_fcmpgt
+ .text          0x0001dd24       0x5c D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixsfsi.o)
+                0x0001dd24                __fixsfsi
+                0x0001dd24                __aeabi_f2iz
+ .text          0x0001dd80       0x10 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+                0x0001dd80                __aeabi_idiv0
+                0x0001dd80                __aeabi_ldiv0
+ .text          0x0001dd90      0xee8 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+                0x0001e8f4                __aeabi_unwind_cpp_pr0
+                0x0001e8fc                __aeabi_unwind_cpp_pr1
+                0x0001e904                __aeabi_unwind_cpp_pr2
+                0x0001e1b8                _Unwind_GetCFA
+                0x0001e1c0                __gnu_Unwind_RaiseException
+                0x0001e264                __gnu_Unwind_ForcedUnwind
+                0x0001e280                __gnu_Unwind_Resume
+                0x0001e2f4                __gnu_Unwind_Resume_or_Rethrow
+                0x0001e314                _Unwind_Complete
+                0x0001e318                _Unwind_DeleteException
+                0x0001e330                _Unwind_VRS_Get
+                0x0001e3b4                _Unwind_VRS_Set
+                0x0001e43c                __gnu_Unwind_Backtrace
+                0x0001e90c                _Unwind_VRS_Pop
+ .text          0x0001ec78      0x1a8 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+                0x0001ec78                __restore_core_regs
+                0x0001ec78                restore_core_regs
+                0x0001ec8c                __gnu_Unwind_Restore_VFP
+                0x0001ec94                __gnu_Unwind_Save_VFP
+                0x0001ec9c                __gnu_Unwind_Restore_VFP_D
+                0x0001eca4                __gnu_Unwind_Save_VFP_D
+                0x0001ecac                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x0001ecb4                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x0001ecbc                __gnu_Unwind_Restore_WMMXD
+                0x0001ed00                __gnu_Unwind_Save_WMMXD
+                0x0001ed44                __gnu_Unwind_Restore_WMMXC
+                0x0001ed58                __gnu_Unwind_Save_WMMXC
+                0x0001ed6c                ___Unwind_RaiseException
+                0x0001ed6c                _Unwind_RaiseException
+                0x0001ed90                ___Unwind_Resume
+                0x0001ed90                _Unwind_Resume
+                0x0001edb4                ___Unwind_Resume_or_Rethrow
+                0x0001edb4                _Unwind_Resume_or_Rethrow
+                0x0001edd8                ___Unwind_ForcedUnwind
+                0x0001edd8                _Unwind_ForcedUnwind
+                0x0001edfc                ___Unwind_Backtrace
+                0x0001edfc                _Unwind_Backtrace
+ .text          0xffffffffffffffff      0x490 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+                0x0001eeac                __gnu_unwind_execute
+                0x0001f234                __gnu_unwind_frame
+                0x0001f274                _Unwind_GetRegionStart
+                0x0001f284                _Unwind_GetLanguageSpecificData
+                0x0001f2a0                _Unwind_GetDataRelBase
+                0x0001f2a8                _Unwind_GetTextRelBase
+ .text          0x0001f2b0        0x0 D:/Android/android-ndk-r11c/build//../platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.ARM.extab      0x0001f2b0       0x60
+ .ARM.extab.text.mdct_butterflies.isra.0
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .ARM.extab.text.mdct_init
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .ARM.extab.text.mdct_clear
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .ARM.extab.text.mdct_backward
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .ARM.extab.text.mdct_forward
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .ARM.extab.text.dradf2
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.extab.text.dradf4
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.extab.text.dradb2
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.extab.text.dradb3
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.extab.text.dradb4
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.extab.text.dradfg
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.extab.text.dradbg
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.extab.text.drft_forward
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.extab.text.drft_backward
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.extab.text.drft_init
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.extab.text.drft_clear
+                0x0001f2b0        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.extab.text._preextrapolate_helper
+                0x0001f2b0        0xc ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_block_init
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text._vorbis_block_alloc
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text._vorbis_block_ripcord
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_block_clear
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_dsp_clear
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text._vds_shared_init
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_analysis_init
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_analysis_buffer
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_analysis_wrote
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_analysis_blockout
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_synthesis_restart
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_synthesis_init
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_synthesis_blockin
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_synthesis_pcmout
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_synthesis_read
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_synthesis_lapout
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text.vorbis_window
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.extab.text._ve_amp
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .ARM.extab.text._ve_envelope_init
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .ARM.extab.text._ve_envelope_clear
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .ARM.extab.text._ve_envelope_search
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .ARM.extab.text._ve_envelope_mark
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .ARM.extab.text._ve_envelope_shift
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .ARM.extab.text._vorbis_window_get
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/window.o
+ .ARM.extab.text._vorbis_apply_window
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/window.o
+ .ARM.extab.text.cheby
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .ARM.extab.text.comp
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .ARM.extab.text.Laguerre_With_Deflation
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .ARM.extab.text.Newton_Raphson
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .ARM.extab.text.vorbis_lsp_to_curve
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .ARM.extab.text.vorbis_lpc_to_lsp
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .ARM.extab.text.vorbis_lpc_from_data
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/lpc.o
+ .ARM.extab.text.vorbis_lpc_predict
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/lpc.o
+ .ARM.extab.text.vorbis_analysis
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/analysis.o
+ .ARM.extab.text.vorbis_synthesis
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .ARM.extab.text.vorbis_synthesis_trackonly
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .ARM.extab.text.vorbis_packet_blocksize
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .ARM.extab.text.vorbis_synthesis_halfrate
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .ARM.extab.text.vorbis_synthesis_halfrate_p
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .ARM.extab.text.apsort
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text.bark_noise_hybridmp
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text.seed_chase
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text.setup_tone_curves
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text.noise_normalize.isra.0
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text._vp_global_look
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text._vp_global_free
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text._vi_gpsy_free
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text._vi_psy_free
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text._vp_psy_init
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text._vp_psy_clear
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text._vp_noisemask
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text._vp_tonemask
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text._vp_offset_and_mix
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text._vp_ampmax_decay
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text._vp_couple_quantize_normalize
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.extab.text._vorbis_pack_comment
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_comment_init
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_comment_add
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_comment_add_tag
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_comment_query
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_comment_query_count
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_comment_clear
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_info_blocksize
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_info_init
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_info_clear
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_synthesis_idheader
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_synthesis_headerin
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_commentheader_out
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_analysis_headerout
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_granule_time
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.vorbis_version_string
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.extab.text.icomp
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.extab.text.floor1_inverse2
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.extab.text.floor1_pack
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.extab.text.floor1_inverse1
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.extab.text.floor1_free_look
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.extab.text.floor1_free_info
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.extab.text.floor1_look
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.extab.text.floor1_unpack
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.extab.text.accumulate_fit.isra.1
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.extab.text.fit_line.isra.2
+                0x0001f2bc        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.extab.text.floor1_fit
+                0x0001f2bc        0xc ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.extab.text.floor1_interpolate_fit
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.extab.text.floor1_encode
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.extab.text.floor0_inverse1
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .ARM.extab.text.floor0_free_look
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .ARM.extab.text.floor0_free_info
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .ARM.extab.text.floor0_unpack
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .ARM.extab.text.floor0_look
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .ARM.extab.text.floor0_inverse2
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .ARM.extab.text.res0_free_info
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text.res0_pack
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text.res0_unpack
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text.res0_look
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text.res1_class
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text.res2_class
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text._01inverse
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text.res0_inverse
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text.res1_inverse
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text._encodepart
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text.res2_inverse
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text.res0_free_look
+                0x0001f2c8        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text._01forward.isra.1.constprop.2
+                0x0001f2c8        0xc ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text.res2_forward
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text.res1_forward
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.extab.text.mapping0_inverse
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .ARM.extab.text.mapping0_pack
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .ARM.extab.text.mapping0_forward
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .ARM.extab.text.mapping0_free_info
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .ARM.extab.text.mapping0_unpack
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .ARM.extab.text.vorbis_staticbook_pack
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.extab.text.vorbis_staticbook_unpack
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.extab.text.vorbis_book_encode
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.extab.text.vorbis_book_decode
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.extab.text.vorbis_book_decodevs_add
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.extab.text.vorbis_book_decodev_add
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.extab.text.vorbis_book_decodev_set
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.extab.text.vorbis_book_decodevv_add
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.extab.text.bitreverse
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text.sort32a
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text._ilog
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text._float32_pack
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text._float32_unpack
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text._make_words
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text._book_maptype1_quantvals
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text._book_unquantize
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text.vorbis_staticbook_destroy
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text.vorbis_book_clear
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text.vorbis_book_init_encode
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text.vorbis_book_init_decode
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text.vorbis_book_codeword
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text.vorbis_book_codelen
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.extab.text.vorbis_bitrate_init
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .ARM.extab.text.vorbis_bitrate_clear
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .ARM.extab.text.vorbis_bitrate_managed
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .ARM.extab.text.vorbis_bitrate_addblock
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .ARM.extab.text.vorbis_bitrate_flushpacket
+                0x0001f2d4        0x0 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .ARM.extab     0x0001f2d4        0xc D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .ARM.extab     0x0001f2e0        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .ARM.extab     0x0001f2e0       0x30 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+
+.ARM.exidx      0x0001f310      0x5b0
+ .ARM.exidx.text.mdct_butterflies.isra.0
+                0x0001f310        0x8 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .ARM.exidx.text.mdct_init
+                0x0001f318        0x8 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .ARM.exidx.text.mdct_clear
+                0x0001f320        0x8 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .ARM.exidx.text.mdct_backward
+                0x0001f328        0x8 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .ARM.exidx.text.mdct_forward
+                0x0001f330        0x8 ./obj/local/armeabi/objs/vorbis/mdct.o
+ ** ARM cantunwind
+                0x0001f338        0x8
+ .ARM.exidx.text.dradf2
+                0x0001f340        0x8 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.exidx.text.dradf4
+                0x0001f348        0x8 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.exidx.text.dradb2
+                0x0001f350        0x8 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.exidx.text.dradb3
+                0x0001f358        0x8 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.exidx.text.dradb4
+                0x0001f360        0x8 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.exidx.text.dradbg
+                0x0001f368        0x8 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.exidx.text.drft_forward
+                0x0001f370        0x8 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.exidx.text.drft_backward
+                0x0001f378        0x8 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.exidx.text.drft_init
+                0x0001f380        0x8 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .ARM.exidx.text.drft_clear
+                0x0001f388        0x8 ./obj/local/armeabi/objs/vorbis/smallft.o
+ ** ARM cantunwind
+                0x0001f390        0x8
+ .ARM.exidx.text._preextrapolate_helper
+                0x0001f398        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text.vorbis_block_init
+                0x0001f3a0        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text.vorbis_dsp_clear
+                0x0001f3a8        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text._vds_shared_init
+                0x0001f3b0        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text.vorbis_analysis_init
+                0x0001f3b8        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text.vorbis_analysis_buffer
+                0x0001f3c0        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text.vorbis_analysis_wrote
+                0x0001f3c8        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text.vorbis_analysis_blockout
+                0x0001f3d0        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text.vorbis_synthesis_restart
+                0x0001f3d8        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text.vorbis_synthesis_init
+                0x0001f3e0        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text.vorbis_synthesis_blockin
+                0x0001f3e8        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text.vorbis_synthesis_pcmout
+                0x0001f3f0        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text.vorbis_synthesis_read
+                0x0001f3f8        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text.vorbis_synthesis_lapout
+                0x0001f400        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ .ARM.exidx.text.vorbis_window
+                0x0001f408        0x8 ./obj/local/armeabi/objs/vorbis/block.o
+ ** ARM cantunwind
+                0x0001f410        0x8
+ .ARM.exidx.text._ve_amp
+                0x0001f418        0x8 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .ARM.exidx.text._ve_envelope_init
+                0x0001f420        0x8 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .ARM.exidx.text._ve_envelope_clear
+                0x0001f428        0x8 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .ARM.exidx.text._ve_envelope_search
+                0x0001f430        0x8 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .ARM.exidx.text._ve_envelope_mark
+                0x0001f438        0x8 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .ARM.exidx.text._ve_envelope_shift
+                0x0001f440        0x8 ./obj/local/armeabi/objs/vorbis/envelope.o
+ ** ARM cantunwind
+                0x0001f448        0x8
+ .ARM.exidx.text._vorbis_window_get
+                0x0001f450        0x8 ./obj/local/armeabi/objs/vorbis/window.o
+ .ARM.exidx.text._vorbis_apply_window
+                0x0001f458        0x8 ./obj/local/armeabi/objs/vorbis/window.o
+ ** ARM cantunwind
+                0x0001f460        0x8
+ .ARM.exidx.text.cheby
+                0x0001f468        0x8 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .ARM.exidx.text.comp
+                0x0001f470        0x8 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .ARM.exidx.text.Laguerre_With_Deflation
+                0x0001f478        0x8 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .ARM.exidx.text.vorbis_lsp_to_curve
+                0x0001f480        0x8 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .ARM.exidx.text.vorbis_lpc_to_lsp
+                0x0001f488        0x8 ./obj/local/armeabi/objs/vorbis/lsp.o
+ ** ARM cantunwind
+                0x0001f490        0x8
+ .ARM.exidx.text.vorbis_lpc_from_data
+                0x0001f498        0x8 ./obj/local/armeabi/objs/vorbis/lpc.o
+ ** ARM cantunwind
+                0x0001f4a0        0x8
+ .ARM.exidx.text.vorbis_analysis
+                0x0001f4a8        0x8 ./obj/local/armeabi/objs/vorbis/analysis.o
+ ** ARM cantunwind
+                0x0001f4b0        0x8
+ .ARM.exidx.text.vorbis_synthesis
+                0x0001f4b8        0x8 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .ARM.exidx.text.vorbis_synthesis_trackonly
+                0x0001f4c0        0x8 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .ARM.exidx.text.vorbis_packet_blocksize
+                0x0001f4c8        0x8 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .ARM.exidx.text.vorbis_synthesis_halfrate
+                0x0001f4d0        0x8 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ ** ARM cantunwind
+                0x0001f4d8        0x8
+ .ARM.exidx.text.apsort
+                0x0001f4e0        0x8 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.exidx.text.bark_noise_hybridmp
+                0x0001f4e8        0x8 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.exidx.text._vp_global_look
+                0x0001f4f0        0x8 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.exidx.text._vp_global_free
+                0x0001f4f8        0x8 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.exidx.text._vp_psy_init
+                0x0001f500        0x8 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.exidx.text._vp_psy_clear
+                0x0001f508        0x8 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.exidx.text._vp_noisemask
+                0x0001f510        0x8 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.exidx.text._vp_offset_and_mix
+                0x0001f518        0x8 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.exidx.text._vp_ampmax_decay
+                0x0001f520        0x8 ./obj/local/armeabi/objs/vorbis/psy.o
+ .ARM.exidx.text._vp_couple_quantize_normalize
+                0x0001f528        0x8 ./obj/local/armeabi/objs/vorbis/psy.o
+ ** ARM cantunwind
+                0x0001f530        0x8
+ .ARM.exidx.text._vorbis_pack_comment
+                0x0001f538        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.exidx.text.vorbis_comment_init
+                0x0001f540        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.exidx.text.vorbis_comment_add
+                0x0001f548        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.exidx.text.vorbis_comment_add_tag
+                0x0001f550        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.exidx.text.vorbis_comment_clear
+                0x0001f558        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.exidx.text.vorbis_info_blocksize
+                0x0001f560        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.exidx.text.vorbis_info_init
+                0x0001f568        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.exidx.text.vorbis_info_clear
+                0x0001f570        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.exidx.text.vorbis_synthesis_idheader
+                0x0001f578        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.exidx.text.vorbis_synthesis_headerin
+                0x0001f580        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.exidx.text.vorbis_commentheader_out
+                0x0001f588        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.exidx.text.vorbis_analysis_headerout
+                0x0001f590        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.exidx.text.vorbis_granule_time
+                0x0001f598        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ .ARM.exidx.text.vorbis_version_string
+                0x0001f5a0        0x8 ./obj/local/armeabi/objs/vorbis/info.o
+ ** ARM cantunwind
+                0x0001f5a8        0x8
+ .ARM.exidx.text.icomp
+                0x0001f5b0        0x8 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.exidx.text.floor1_inverse2
+                0x0001f5b8        0x8 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.exidx.text.floor1_pack
+                0x0001f5c0        0x8 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.exidx.text.floor1_inverse1
+                0x0001f5c8        0x8 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.exidx.text.floor1_free_look
+                0x0001f5d0        0x8 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.exidx.text.floor1_look
+                0x0001f5d8        0x8 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.exidx.text.floor1_unpack
+                0x0001f5e0        0x8 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.exidx.text.accumulate_fit.isra.1
+                0x0001f5e8        0x8 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.exidx.text.fit_line.isra.2
+                0x0001f5f0        0x8 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.exidx.text.floor1_fit
+                0x0001f5f8        0x8 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.exidx.text.floor1_interpolate_fit
+                0x0001f600        0x8 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .ARM.exidx.text.floor1_encode
+                0x0001f608        0x8 ./obj/local/armeabi/objs/vorbis/floor1.o
+ ** ARM cantunwind
+                0x0001f610        0x8
+ .ARM.exidx.text.floor0_inverse1
+                0x0001f618        0x8 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .ARM.exidx.text.floor0_free_look
+                0x0001f620        0x8 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .ARM.exidx.text.floor0_unpack
+                0x0001f628        0x8 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .ARM.exidx.text.floor0_look
+                0x0001f630        0x8 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .ARM.exidx.text.floor0_inverse2
+                0x0001f638        0x8 ./obj/local/armeabi/objs/vorbis/floor0.o
+ ** ARM cantunwind
+                0x0001f640        0x8
+ .ARM.exidx.text.res0_free_info
+                0x0001f648        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.exidx.text.res0_pack
+                0x0001f650        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.exidx.text.res0_unpack
+                0x0001f658        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.exidx.text.res0_look
+                0x0001f660        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.exidx.text.res1_class
+                0x0001f668        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.exidx.text.res2_class
+                0x0001f670        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.exidx.text._01inverse
+                0x0001f678        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.exidx.text.res0_inverse
+                0x0001f680        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.exidx.text._encodepart
+                0x0001f688        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.exidx.text.res2_inverse
+                0x0001f690        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.exidx.text.res0_free_look
+                0x0001f698        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.exidx.text._01forward.isra.1.constprop.2
+                0x0001f6a0        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.exidx.text.res2_forward
+                0x0001f6a8        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ .ARM.exidx.text.res1_forward
+                0x0001f6b0        0x8 ./obj/local/armeabi/objs/vorbis/res0.o
+ ** ARM cantunwind
+                0x0001f6b8        0x8
+ .ARM.exidx.text.mapping0_inverse
+                0x0001f6c0        0x8 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .ARM.exidx.text.mapping0_pack
+                0x0001f6c8        0x8 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .ARM.exidx.text.mapping0_forward
+                0x0001f6d0        0x8 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .ARM.exidx.text.mapping0_free_info
+                0x0001f6d8        0x8 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .ARM.exidx.text.mapping0_unpack
+                0x0001f6e0        0x8 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ ** ARM cantunwind
+                0x0001f6e8        0x8
+ .ARM.exidx.text.vorbis_staticbook_pack
+                0x0001f6f0        0x8 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.exidx.text.vorbis_staticbook_unpack
+                0x0001f6f8        0x8 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.exidx.text.vorbis_book_encode
+                0x0001f700        0x8 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.exidx.text.vorbis_book_decode
+                0x0001f708        0x8 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.exidx.text.vorbis_book_decodevs_add
+                0x0001f710        0x8 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.exidx.text.vorbis_book_decodev_add
+                0x0001f718        0x8 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.exidx.text.vorbis_book_decodev_set
+                0x0001f720        0x8 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .ARM.exidx.text.vorbis_book_decodevv_add
+                0x0001f728        0x8 ./obj/local/armeabi/objs/vorbis/codebook.o
+ ** ARM cantunwind
+                0x0001f730        0x8
+ .ARM.exidx.text.bitreverse
+                0x0001f738        0x8 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.exidx.text.sort32a
+                0x0001f740        0x8 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.exidx.text._float32_pack
+                0x0001f748        0x8 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.exidx.text._float32_unpack
+                0x0001f750        0x8 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.exidx.text._make_words
+                0x0001f758        0x8 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.exidx.text._book_maptype1_quantvals
+                0x0001f760        0x8 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.exidx.text._book_unquantize
+                0x0001f768        0x8 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.exidx.text.vorbis_staticbook_destroy
+                0x0001f770        0x8 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.exidx.text.vorbis_book_init_encode
+                0x0001f778        0x8 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.exidx.text.vorbis_book_init_decode
+                0x0001f780        0x8 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .ARM.exidx.text.vorbis_book_codeword
+                0x0001f788        0x8 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ ** ARM cantunwind
+                0x0001f790        0x8
+ .ARM.exidx.text.vorbis_bitrate_init
+                0x0001f798        0x8 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .ARM.exidx.text.vorbis_bitrate_clear
+                0x0001f7a0        0x8 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .ARM.exidx.text.vorbis_bitrate_addblock
+                0x0001f7a8        0x8 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .ARM.exidx.text.vorbis_bitrate_flushpacket
+                0x0001f7b0        0x8 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ ** ARM cantunwind
+                0x0001f7b8        0x8
+ .ARM.exidx     0x0001f7c0        0x8 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .ARM.exidx     0xffffffffffffffff       0xd8 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ ** ARM cantunwind
+                0x0001f868        0x8
+ .ARM.exidx     0x0001f870       0x48 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ ** ARM cantunwind
+                0x0001f8b8        0x8
+
+.rodata         0x0001f8c0     0xe314
+ .rodata        0x0001f8c0       0x10 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .rodata        0x0001f8d0     0x7f80 ./obj/local/armeabi/objs/vorbis/window.o
+ .rodata        0x00027850     0x5f30 ./obj/local/armeabi/objs/vorbis/psy.o
+ ** merge strings
+                0x0002d780       0x51
+ .rodata        0x0002d7d4      0x400 ./obj/local/armeabi/objs/vorbis/floor1.o
+
+.data.rel.ro.local
+                0x0002ed08       0x6c
+ .data.rel.ro.local
+                0x0002ed08       0x20 ./obj/local/armeabi/objs/vorbis/window.o
+ .data.rel.ro.local
+                0x0002ed28       0x1c ./obj/local/armeabi/objs/vorbis/floor1.o
+                0x0002ed28                floor1_exportbundle
+ .data.rel.ro.local
+                0x0002ed44       0x1c ./obj/local/armeabi/objs/vorbis/floor0.o
+                0x0002ed44                floor0_exportbundle
+ .data.rel.ro.local
+                0x0002ed60       0x14 ./obj/local/armeabi/objs/vorbis/mapping0.o
+                0x0002ed60                mapping0_exportbundle
+
+.fini_array     0x0002ed74        0x8
+ .fini_array    0x0002ed74        0x4 D:/Android/android-ndk-r11c/build//../platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .fini_array    0x0002ed78        0x4 D:/Android/android-ndk-r11c/build//../platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.data.rel.ro    0x0002ed7c       0x78
+ .data.rel.ro   0x0002ed7c       0x60 ./obj/local/armeabi/objs/vorbis/res0.o
+                0x0002ed7c                residue2_exportbundle
+                0x0002ed9c                residue1_exportbundle
+                0x0002edbc                residue0_exportbundle
+ .data.rel.ro   0x0002eddc       0x18 ./obj/local/armeabi/objs/vorbis/registry.o
+                0x0002eddc                _mapping_P
+                0x0002ede0                _residue_P
+                0x0002edec                _floor_P
+
+.init_array     0x0002edf4        0x4
+ .init_array    0x0002edf4        0x4 D:/Android/android-ndk-r11c/build//../platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.dynamic        0x0002edf8      0x110
+ ** dynamic     0x0002edf8      0x110
+
+.got            0x0002ef08       0xf8
+ ** GOT         0x0002ef08       0x38
+ ** GOT PLT     0x0002ef40       0xc0
+ ** GOT IRELATIVE PLT
+                0x0002f000        0x0
+
+.data           0x0002f000        0x4
+ .data          0x0002f000        0x4 D:/Android/android-ndk-r11c/build//../platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0002f000                __dso_handle
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/window.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/lpc.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/analysis.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/registry.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/lookup.o
+ .data          0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divsi3.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixdfsi.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubsf3.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivsf3.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpsf2.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixsfsi.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .data          0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.bss            0x0002f004        0x0
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/block.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/window.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/lpc.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/analysis.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/info.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/res0.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/registry.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/lookup.o
+ .bss           0x0002f004        0x0 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divsi3.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixsfsi.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .bss           0x0002f004        0x0 D:/Android/android-ndk-r11c/build//../platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.comment        0x00000000       0x26
+ ** merge strings
+                0x00000000       0x26
+
+.debug_info     0x00000000    0x1f1fb
+ .debug_info    0x00000000      0xba1 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .debug_info    0x00000ba1     0x19f1 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .debug_info    0x00002592     0x27cd ./obj/local/armeabi/objs/vorbis/block.o
+ .debug_info    0x00004d5f     0x17af ./obj/local/armeabi/objs/vorbis/envelope.o
+ .debug_info    0x0000650e      0x346 ./obj/local/armeabi/objs/vorbis/window.o
+ .debug_info    0x00006854      0x6a0 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .debug_info    0x00006ef4      0x2af ./obj/local/armeabi/objs/vorbis/lpc.o
+ .debug_info    0x000071a3      0x67c ./obj/local/armeabi/objs/vorbis/analysis.o
+ .debug_info    0x0000781f     0x15ec ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .debug_info    0x00008e0b     0x2961 ./obj/local/armeabi/objs/vorbis/psy.o
+ .debug_info    0x0000b76c     0x30db ./obj/local/armeabi/objs/vorbis/info.o
+ .debug_info    0x0000e847     0x3136 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .debug_info    0x0001197d     0x15d8 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .debug_info    0x00012f55     0x29ec ./obj/local/armeabi/objs/vorbis/res0.o
+ .debug_info    0x00015941     0x2828 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .debug_info    0x00018169      0x820 ./obj/local/armeabi/objs/vorbis/registry.o
+ .debug_info    0x00018989     0x1456 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .debug_info    0x00019ddf      0xd6f ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .debug_info    0x0001ab4e       0x80 ./obj/local/armeabi/objs/vorbis/lookup.o
+ .debug_info    0x0001abce     0x15f5 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .debug_info    0x0001c1c3       0xfb D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divsi3.o)
+ .debug_info    0x0001c2be       0xfc D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x0001c3ba       0xfc D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x0001c4b6       0xfc D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpdf2.o)
+ .debug_info    0x0001c5b2       0xfc D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixdfsi.o)
+ .debug_info    0x0001c6ae       0xfc D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_truncdfsf2.o)
+ .debug_info    0x0001c7aa       0xfc D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubsf3.o)
+ .debug_info    0x0001c8a6       0xfc D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivsf3.o)
+ .debug_info    0x0001c9a2       0xfc D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpsf2.o)
+ .debug_info    0x0001ca9e       0xfc D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixsfsi.o)
+ .debug_info    0x0001cb9a       0xfb D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .debug_info    0x0001cc95     0x1bbc D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_info    0x0001e851       0xfb D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .debug_info    0x0001e94c      0x8af D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+
+.debug_abbrev   0x00000000     0x4020
+ .debug_abbrev  0x00000000      0x307 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .debug_abbrev  0x00000307      0x34e ./obj/local/armeabi/objs/vorbis/smallft.o
+ .debug_abbrev  0x00000655      0x3de ./obj/local/armeabi/objs/vorbis/block.o
+ .debug_abbrev  0x00000a33      0x383 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .debug_abbrev  0x00000db6      0x108 ./obj/local/armeabi/objs/vorbis/window.o
+ .debug_abbrev  0x00000ebe      0x1fe ./obj/local/armeabi/objs/vorbis/lsp.o
+ .debug_abbrev  0x000010bc      0x132 ./obj/local/armeabi/objs/vorbis/lpc.o
+ .debug_abbrev  0x000011ee      0x192 ./obj/local/armeabi/objs/vorbis/analysis.o
+ .debug_abbrev  0x00001380      0x1fb ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .debug_abbrev  0x0000157b      0x53e ./obj/local/armeabi/objs/vorbis/psy.o
+ .debug_abbrev  0x00001ab9      0x4b2 ./obj/local/armeabi/objs/vorbis/info.o
+ .debug_abbrev  0x00001f6b      0x491 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .debug_abbrev  0x000023fc      0x30f ./obj/local/armeabi/objs/vorbis/floor0.o
+ .debug_abbrev  0x0000270b      0x4b5 ./obj/local/armeabi/objs/vorbis/res0.o
+ .debug_abbrev  0x00002bc0      0x390 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .debug_abbrev  0x00002f50       0xde ./obj/local/armeabi/objs/vorbis/registry.o
+ .debug_abbrev  0x0000302e      0x2bc ./obj/local/armeabi/objs/vorbis/codebook.o
+ .debug_abbrev  0x000032ea      0x333 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .debug_abbrev  0x0000361d       0x26 ./obj/local/armeabi/objs/vorbis/lookup.o
+ .debug_abbrev  0x00003643      0x265 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .debug_abbrev  0x000038a8       0x14 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x000038bc       0x14 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x000038d0       0x14 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivdf3.o)
+ .debug_abbrev  0x000038e4       0x14 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpdf2.o)
+ .debug_abbrev  0x000038f8       0x14 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixdfsi.o)
+ .debug_abbrev  0x0000390c       0x14 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_truncdfsf2.o)
+ .debug_abbrev  0x00003920       0x14 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubsf3.o)
+ .debug_abbrev  0x00003934       0x14 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivsf3.o)
+ .debug_abbrev  0x00003948       0x14 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpsf2.o)
+ .debug_abbrev  0x0000395c       0x14 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixsfsi.o)
+ .debug_abbrev  0x00003970       0x14 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .debug_abbrev  0x00003984      0x413 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_abbrev  0x00003d97       0x14 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .debug_abbrev  0x00003dab      0x275 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+
+.debug_loc      0x00000000    0x1bfc5
+ .debug_loc     0x00000000     0x1a58 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .debug_loc     0x00001a58     0x43ba ./obj/local/armeabi/objs/vorbis/smallft.o
+ .debug_loc     0x00005e12     0x1878 ./obj/local/armeabi/objs/vorbis/block.o
+ .debug_loc     0x0000768a      0xb0b ./obj/local/armeabi/objs/vorbis/envelope.o
+ .debug_loc     0x00008195      0x2d5 ./obj/local/armeabi/objs/vorbis/window.o
+ .debug_loc     0x0000846a      0xaa8 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .debug_loc     0x00008f12      0x5dc ./obj/local/armeabi/objs/vorbis/lpc.o
+ .debug_loc     0x000094ee       0x7d ./obj/local/armeabi/objs/vorbis/analysis.o
+ .debug_loc     0x0000956b      0x3cd ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .debug_loc     0x00009938     0x48eb ./obj/local/armeabi/objs/vorbis/psy.o
+ .debug_loc     0x0000e223     0x138f ./obj/local/armeabi/objs/vorbis/info.o
+ .debug_loc     0x0000f5b2     0x3b88 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .debug_loc     0x0001313a      0x7b1 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .debug_loc     0x000138eb     0x27b5 ./obj/local/armeabi/objs/vorbis/res0.o
+ .debug_loc     0x000160a0      0xf4a ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .debug_loc     0x00016fea     0x18b3 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .debug_loc     0x0001889d     0x1365 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .debug_loc     0x00019c02      0x8bf ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .debug_loc     0x0001a4c1     0x15d5 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_loc     0x0001ba96      0x52f D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+
+.debug_aranges  0x00000000      0x870
+ .debug_aranges
+                0x00000000       0x40 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .debug_aranges
+                0x00000040       0x70 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .debug_aranges
+                0x000000b0       0xa8 ./obj/local/armeabi/objs/vorbis/block.o
+ .debug_aranges
+                0x00000158       0x48 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .debug_aranges
+                0x000001a0       0x28 ./obj/local/armeabi/objs/vorbis/window.o
+ .debug_aranges
+                0x000001c8       0x48 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .debug_aranges
+                0x00000210       0x28 ./obj/local/armeabi/objs/vorbis/lpc.o
+ .debug_aranges
+                0x00000238       0x20 ./obj/local/armeabi/objs/vorbis/analysis.o
+ .debug_aranges
+                0x00000258       0x40 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .debug_aranges
+                0x00000298       0x98 ./obj/local/armeabi/objs/vorbis/psy.o
+ .debug_aranges
+                0x00000330       0x98 ./obj/local/armeabi/objs/vorbis/info.o
+ .debug_aranges
+                0x000003c8       0x80 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .debug_aranges
+                0x00000448       0x48 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .debug_aranges
+                0x00000490       0x90 ./obj/local/armeabi/objs/vorbis/res0.o
+ .debug_aranges
+                0x00000520       0x40 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .debug_aranges
+                0x00000560       0x18 ./obj/local/armeabi/objs/vorbis/registry.o
+ .debug_aranges
+                0x00000578       0x58 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .debug_aranges
+                0x000005d0       0x88 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .debug_aranges
+                0x00000658       0x18 ./obj/local/armeabi/objs/vorbis/lookup.o
+ .debug_aranges
+                0x00000670       0x40 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .debug_aranges
+                0x000006b0       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x000006d0       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x000006f0       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivdf3.o)
+ .debug_aranges
+                0x00000710       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpdf2.o)
+ .debug_aranges
+                0x00000730       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixdfsi.o)
+ .debug_aranges
+                0x00000750       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_truncdfsf2.o)
+ .debug_aranges
+                0x00000770       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubsf3.o)
+ .debug_aranges
+                0x00000790       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivsf3.o)
+ .debug_aranges
+                0x000007b0       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpsf2.o)
+ .debug_aranges
+                0x000007d0       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixsfsi.o)
+ .debug_aranges
+                0x000007f0       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .debug_aranges
+                0x00000810       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_aranges
+                0x00000830       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .debug_aranges
+                0x00000850       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+
+.debug_ranges   0x00000000     0x23b0
+ .debug_ranges  0x00000000      0x150 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .debug_ranges  0x00000150       0xe0 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .debug_ranges  0x00000230      0x298 ./obj/local/armeabi/objs/vorbis/block.o
+ .debug_ranges  0x000004c8      0x140 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .debug_ranges  0x00000608       0x30 ./obj/local/armeabi/objs/vorbis/window.o
+ .debug_ranges  0x00000638       0xb0 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .debug_ranges  0x000006e8       0x98 ./obj/local/armeabi/objs/vorbis/lpc.o
+ .debug_ranges  0x00000780       0x10 ./obj/local/armeabi/objs/vorbis/analysis.o
+ .debug_ranges  0x00000790       0x30 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .debug_ranges  0x000007c0      0x3b8 ./obj/local/armeabi/objs/vorbis/psy.o
+ .debug_ranges  0x00000b78      0x250 ./obj/local/armeabi/objs/vorbis/info.o
+ .debug_ranges  0x00000dc8      0x838 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .debug_ranges  0x00001600       0xc8 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .debug_ranges  0x000016c8      0x410 ./obj/local/armeabi/objs/vorbis/res0.o
+ .debug_ranges  0x00001ad8      0x188 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .debug_ranges  0x00001c60      0x388 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .debug_ranges  0x00001fe8      0x288 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .debug_ranges  0x00002270       0x60 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .debug_ranges  0x000022d0       0xb0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_ranges  0x00002380       0x30 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+
+.debug_line     0x00000000     0x967d
+ .debug_line    0x00000000      0x726 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .debug_line    0x00000726     0x1163 ./obj/local/armeabi/objs/vorbis/smallft.o
+ .debug_line    0x00001889      0xafe ./obj/local/armeabi/objs/vorbis/block.o
+ .debug_line    0x00002387      0x590 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .debug_line    0x00002917       0xb7 ./obj/local/armeabi/objs/vorbis/window.o
+ .debug_line    0x000029ce      0x45b ./obj/local/armeabi/objs/vorbis/lsp.o
+ .debug_line    0x00002e29      0x1d2 ./obj/local/armeabi/objs/vorbis/lpc.o
+ .debug_line    0x00002ffb      0x11a ./obj/local/armeabi/objs/vorbis/analysis.o
+ .debug_line    0x00003115      0x277 ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .debug_line    0x0000338c      0xfa1 ./obj/local/armeabi/objs/vorbis/psy.o
+ .debug_line    0x0000432d      0x8ba ./obj/local/armeabi/objs/vorbis/info.o
+ .debug_line    0x00004be7      0xedb ./obj/local/armeabi/objs/vorbis/floor1.o
+ .debug_line    0x00005ac2      0x3d6 ./obj/local/armeabi/objs/vorbis/floor0.o
+ .debug_line    0x00005e98      0xb29 ./obj/local/armeabi/objs/vorbis/res0.o
+ .debug_line    0x000069c1      0x78e ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .debug_line    0x0000714f       0xcb ./obj/local/armeabi/objs/vorbis/registry.o
+ .debug_line    0x0000721a      0x70e ./obj/local/armeabi/objs/vorbis/codebook.o
+ .debug_line    0x00007928      0x6d1 ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .debug_line    0x00007ff9       0x1d ./obj/local/armeabi/objs/vorbis/lookup.o
+ .debug_line    0x00008016      0x335 ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .debug_line    0x0000834b       0xc0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divsi3.o)
+ .debug_line    0x0000840b      0x18e D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x00008599      0x1b7 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivdf3.o)
+ .debug_line    0x00008750       0xe5 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpdf2.o)
+ .debug_line    0x00008835       0xaf D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixdfsi.o)
+ .debug_line    0x000088e4       0xc0 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_truncdfsf2.o)
+ .debug_line    0x000089a4      0x137 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_addsubsf3.o)
+ .debug_line    0x00008adb      0x15a D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_muldivsf3.o)
+ .debug_line    0x00008c35       0xd9 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_cmpsf2.o)
+ .debug_line    0x00008d0e       0xaf D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_arm_fixsfsi.o)
+ .debug_line    0x00008dbd       0x9b D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .debug_line    0x00008e58      0x571 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_line    0x000093c9       0xe5 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .debug_line    0x000094ae      0x1cf D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+
+.debug_str      0x00000000     0x3774
+ ** merge strings
+                0x00000000     0x3774
+
+.debug_frame    0x00000000     0x1ccc
+ .debug_frame   0x00000000       0xf0 ./obj/local/armeabi/objs/vorbis/mdct.o
+ .debug_frame   0x000000f0      0x22c ./obj/local/armeabi/objs/vorbis/smallft.o
+ .debug_frame   0x0000031c      0x2a4 ./obj/local/armeabi/objs/vorbis/block.o
+ .debug_frame   0x000005c0      0x110 ./obj/local/armeabi/objs/vorbis/envelope.o
+ .debug_frame   0x000006d0       0x50 ./obj/local/armeabi/objs/vorbis/window.o
+ .debug_frame   0x00000720      0x120 ./obj/local/armeabi/objs/vorbis/lsp.o
+ .debug_frame   0x00000840       0x78 ./obj/local/armeabi/objs/vorbis/lpc.o
+ .debug_frame   0x000008b8       0x30 ./obj/local/armeabi/objs/vorbis/analysis.o
+ .debug_frame   0x000008e8       0xbc ./obj/local/armeabi/objs/vorbis/synthesis.o
+ .debug_frame   0x000009a4      0x2b0 ./obj/local/armeabi/objs/vorbis/psy.o
+ .debug_frame   0x00000c54      0x258 ./obj/local/armeabi/objs/vorbis/info.o
+ .debug_frame   0x00000eac      0x240 ./obj/local/armeabi/objs/vorbis/floor1.o
+ .debug_frame   0x000010ec       0xec ./obj/local/armeabi/objs/vorbis/floor0.o
+ .debug_frame   0x000011d8      0x290 ./obj/local/armeabi/objs/vorbis/res0.o
+ .debug_frame   0x00001468       0xe0 ./obj/local/armeabi/objs/vorbis/mapping0.o
+ .debug_frame   0x00001548      0x178 ./obj/local/armeabi/objs/vorbis/codebook.o
+ .debug_frame   0x000016c0      0x1ac ./obj/local/armeabi/objs/vorbis/sharedbook.o
+ .debug_frame   0x0000186c       0xac ./obj/local/armeabi/objs/vorbis/bitrate.o
+ .debug_frame   0x00001918       0x20 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divsi3.o)
+ .debug_frame   0x00001938      0x2ac D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_frame   0x00001be4       0xe8 D:/Android/android-ndk-r11c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+
+.note.gnu.gold-version
+                0x00000000       0x1c
+ ** note header
+                0x00000000       0x10
+ ** fill        0x00000010        0x9
+ ** zero fill   0x00000019        0x3
+
+.ARM.attributes
+                0x00000000       0x2b
+ ** attributes  0x00000000       0x2b
+
+.symtab         0x00000000     0x3480
+ ** symtab      0x00000000     0x3480
+
+.strtab         0x00000000     0x17e9
+ ** string table
+                0x00000000     0x17e9
+
+.shstrtab       0x00000000      0x156
+ ** string table
+                0x00000000      0x156

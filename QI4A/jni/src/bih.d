@@ -1,0 +1,22 @@
+bih.o: bih.c /home/kp142eh12/dp/deps/include/stdlib.h \
+ /home/kp142eh12/dp/deps/include/sys/cdefs.h \
+ /home/kp142eh12/dp/deps/include/sys/cdefs_elf.h \
+ /home/kp142eh12/dp/deps/include/android/api-level.h \
+ /home/kp142eh12/dp/deps/include/string.h \
+ /home/kp142eh12/dp/deps/include/malloc.h \
+ /home/kp142eh12/dp/deps/include/alloca.h \
+ /home/kp142eh12/dp/deps/include/strings.h \
+ /home/kp142eh12/dp/deps/include/sys/types.h \
+ /home/kp142eh12/dp/deps/include/stdint.h \
+ /home/kp142eh12/dp/deps/include/sys/_types.h \
+ /home/kp142eh12/dp/deps/include/machine/_types.h \
+ /home/kp142eh12/dp/deps/include/sys/_wchar_limits.h \
+ /home/kp142eh12/dp/deps/include/linux/posix_types.h \
+ /home/kp142eh12/dp/deps/include/linux/stddef.h \
+ /home/kp142eh12/dp/deps/include/linux/compiler.h \
+ /home/kp142eh12/dp/deps/include/asm/posix_types.h \
+ /home/kp142eh12/dp/deps/include/asm/types.h \
+ /home/kp142eh12/dp/deps/include/linux/types.h \
+ /home/kp142eh12/dp/deps/include/machine/kernel.h \
+ /home/kp142eh12/dp/deps/include/sys/sysmacros.h \
+ /home/kp142eh12/dp/deps/include/memory.h bih.h
